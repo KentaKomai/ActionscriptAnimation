@@ -2,6 +2,7 @@ package chapter3
 {
 	import flash.display.Sprite;
 	import flash.events.Event;
+	import chapter3.model.Ball;
 	
 
 	public class Pulse extends Sprite

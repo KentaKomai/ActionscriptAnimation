@@ -3,7 +3,7 @@ package
 	import flash.display.Sprite;
 	import flash.events.Event;
 	
-	import chapter3.Arrow;
+	import chapter3.model.Arrow;
 	
 	public class Main extends Sprite
 	{
