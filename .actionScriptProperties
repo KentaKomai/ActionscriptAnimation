@@ -36,13 +36,16 @@
     <sourceAttachmentPath/>
   </compiler>
   <applications>
+    <application path="chapter3/MouseDistance.as"/>
     <application path="chapter3/Random.as"/>
     <application path="chapter3/Wave2.as"/>
     <application path="Main.as"/>
     <application path="chapter3/Wave1.as"/>
+    <application path="chapter3/Distance.as"/>
     <application path="chapter3/Bodding.as"/>
     <application path="chapter3/Pulse.as"/>
     <application path="chapter3/Circle.as"/>
+    <application path="chapter3/Oval.as"/>
   </applications>
   <modules/>
   <workers/>
