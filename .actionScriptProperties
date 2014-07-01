@@ -44,6 +44,7 @@
     <application path="chapter4/MultiCurves2.as"/>
     <application path="chapter4/Filters.as"/>
     <application path="chapter3/Wave2.as"/>
+    <application path="chapter5/FollowMouse.as"/>
     <application path="Main.as"/>
     <application path="chapter3/Wave1.as"/>
     <application path="chapter4/DrawingApp.as"/>
@@ -51,8 +52,8 @@
     <application path="chapter4/AnimatedFilters.as"/>
     <application path="chapter5/Velocity2.as"/>
     <application path="chapter3/Distance.as"/>
-    <application path="chapter3/Pulse.as"/>
     <application path="chapter3/Bodding.as"/>
+    <application path="chapter3/Pulse.as"/>
     <application path="chapter3/Circle.as"/>
     <application path="chapter4/MultiCurves1.as"/>
     <application path="chapter5/VelocityAngle.as"/>
