@@ -45,8 +45,8 @@
     <application path="chapter5/Acceleration2.as"/>
     <application path="chapter3/Distance.as"/>
     <application path="chapter6/MyFountain.as"/>
-    <application path="chapter5/FollowMouse2.as"/>
     <application path="chapter3/Circle.as"/>
+    <application path="chapter5/FollowMouse2.as"/>
     <application path="chapter5/Velocity1.as"/>
     <application path="chapter3/MouseDistance.as"/>
     <application path="chapter4/MultiCurves3.as"/>
@@ -58,14 +58,15 @@
     <application path="Main.as"/>
     <application path="chapter5/FollowMouse.as"/>
     <application path="chapter6/Removal.as"/>
+    <application path="chapter6/Bouncing.as"/>
     <application path="chapter4/AnimatedFilters.as"/>
     <application path="chapter5/Velocity2.as"/>
     <application path="chapter5/ShipSim.as"/>
-    <application path="chapter3/Bodding.as"/>
     <application path="chapter3/Pulse.as"/>
+    <application path="chapter3/Bodding.as"/>
     <application path="chapter5/RotationalVelocity.as"/>
-    <application path="chapter6/ShipSim2.as"/>
     <application path="chapter4/MultiCurves1.as"/>
+    <application path="chapter6/ShipSim2.as"/>
     <application path="chapter5/VelocityAngle.as"/>
   </applications>
   <modules/>
