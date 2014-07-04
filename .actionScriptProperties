@@ -36,6 +36,7 @@
     <sourceAttachmentPath/>
   </compiler>
   <applications>
+    <application path="chapter6/Friction1.as"/>
     <application path="chapter5/Acceleration3.as"/>
     <application path="chapter4/DrawingCurves.as"/>
     <application path="chapter4/Filters.as"/>
@@ -47,6 +48,7 @@
     <application path="chapter6/MyFountain.as"/>
     <application path="chapter3/Circle.as"/>
     <application path="chapter5/FollowMouse2.as"/>
+    <application path="chapter6/Friction1Easy.as"/>
     <application path="chapter5/Velocity1.as"/>
     <application path="chapter3/MouseDistance.as"/>
     <application path="chapter4/MultiCurves3.as"/>
