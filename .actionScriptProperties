@@ -36,11 +36,13 @@
     <sourceAttachmentPath/>
   </compiler>
   <applications>
+    <application path="chapter9/Boxes.as"/>
     <application path="chapter4/DrawingCurves.as"/>
     <application path="chapter7/MouseMoveDrag.as"/>
     <application path="chapter8/MultiSpring.as"/>
     <application path="chapter6/RotationalVelocityWithFriction.as"/>
     <application path="chapter3/Wave1.as"/>
+    <application path="chapter9/ObjectHitTest.as"/>
     <application path="chapter8/Easing2.as"/>
     <application path="chapter3/Distance.as"/>
     <application path="chapter8/Spring3.as"/>
@@ -54,8 +56,8 @@
     <application path="chapter8/OffsetSpring.as"/>
     <application path="chapter5/ShipSim.as"/>
     <application path="chapter8/Chain.as"/>
-    <application path="chapter3/Bodding.as"/>
     <application path="chapter3/Pulse.as"/>
+    <application path="chapter3/Bodding.as"/>
     <application path="chapter5/RotationalVelocity.as"/>
     <application path="chapter4/MultiCurves1.as"/>
     <application path="chapter6/Friction1.as"/>
@@ -63,8 +65,10 @@
     <application path="chapter4/Filters.as"/>
     <application path="chapter8/DoubleSpring.as"/>
     <application path="chapter4/DrawingApp.as"/>
+    <application path="chapter9/MyBoxes.as"/>
     <application path="chapter8/Spring2.as"/>
     <application path="chapter3/Oval.as"/>
+    <application path="chapter9/PointHitTest.as"/>
     <application path="chapter5/Acceleration2.as"/>
     <application path="chapter7/DragAndMove.as"/>
     <application path="chapter8/Spring5.as"/>
@@ -87,6 +91,7 @@
     <application path="chapter7/Throwing.as"/>
     <application path="chapter8/Easing1.as"/>
     <application path="chapter6/ShipSim2.as"/>
+    <application path="chapter9/PointHitTestWithShapFlg.as"/>
     <application path="chapter5/VelocityAngle.as"/>
   </applications>
   <modules/>
