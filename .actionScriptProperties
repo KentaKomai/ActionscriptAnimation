@@ -43,13 +43,14 @@
     <application path="chapter7/MouseMoveDrag.as"/>
     <application path="chapter6/RotationalVelocityWithFriction.as"/>
     <application path="chapter3/Wave1.as"/>
+    <application path="chapter10/Rotate3.as"/>
     <application path="chapter9/ObjectHitTest.as"/>
     <application path="chapter8/Easing2.as"/>
     <application path="chapter3/Distance.as"/>
     <application path="chapter8/Spring3.as"/>
     <application path="chapter6/Friction1Easy.as"/>
-    <application path="chapter8/EasingOff.as"/>
     <application path="chapter4/MultiCurves3.as"/>
+    <application path="chapter8/EasingOff.as"/>
     <application path="ObjectSample.as"/>
     <application path="chapter5/FollowMouse.as"/>
     <application path="chapter6/Bouncing.as"/>
@@ -57,9 +58,9 @@
     <application path="chapter8/OffsetSpring.as"/>
     <application path="chapter5/ShipSim.as"/>
     <application path="chapter8/Chain.as"/>
-    <application path="chapter9/DistanceHit.as"/>
-    <application path="chapter3/Pulse.as"/>
     <application path="chapter3/Bodding.as"/>
+    <application path="chapter3/Pulse.as"/>
+    <application path="chapter9/DistanceHit.as"/>
     <application path="chapter5/RotationalVelocity.as"/>
     <application path="chapter4/MultiCurves1.as"/>
     <application path="chapter6/Friction1.as"/>
@@ -72,6 +73,7 @@
     <application path="chapter3/Oval.as"/>
     <application path="chapter9/PointHitTest.as"/>
     <application path="chapter5/Acceleration2.as"/>
+    <application path="chapter10/Rotate2.as"/>
     <application path="chapter7/DragAndMove.as"/>
     <application path="chapter8/Spring5.as"/>
     <application path="chapter6/MyFountain.as"/>
@@ -83,19 +85,20 @@
     <application path="chapter6/Fountain.as"/>
     <application path="chapter3/Random.as"/>
     <application path="chapter4/MultiCurves2.as"/>
-    <application path="chapter3/Wave2.as"/>
     <application path="chapter8/Spring1.as"/>
+    <application path="chapter3/Wave2.as"/>
     <application path="Main.as"/>
     <application path="chapter6/Removal.as"/>
-    <application path="chapter8/TripleSpring.as"/>
     <application path="chapter8/ChainArray.as"/>
+    <application path="chapter8/TripleSpring.as"/>
     <application path="chapter4/AnimatedFilters.as"/>
     <application path="chapter7/Throwing.as"/>
     <application path="chapter9/Bubbles.as"/>
+    <application path="chapter10/Rotate1.as"/>
     <application path="chapter8/Easing1.as"/>
     <application path="chapter6/ShipSim2.as"/>
-    <application path="chapter5/VelocityAngle.as"/>
     <application path="chapter9/PointHitTestWithShapFlg.as"/>
+    <application path="chapter5/VelocityAngle.as"/>
   </applications>
   <modules/>
   <workers/>
